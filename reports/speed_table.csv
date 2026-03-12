@@ -1,0 +1,3 @@
+Metric,GPU,Resolution,Batch,Conf_Thresh,NMS_Thresh,Avg_Latency_ms,P90_Latency_ms,FPS,Sync_Used
+Pure Inference,NVIDIA GeForce RTX 4060 Laptop GPU,640 x 640,1,0.25,0.45,4.81,5.2,207.74,True
+End-to-End,NVIDIA GeForce RTX 4060 Laptop GPU,640 x 640,1,0.25,0.45,11.86,20.11,84.28,True
