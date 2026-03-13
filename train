@@ -1,0 +1,16 @@
+augmentation:
+  config_path: configs/augmentation_config.yaml
+  enabled: true
+  include_augmented: false
+class_mapping:
+  bicycle: 2
+  bus: 6
+  car: 3
+  motor: 7
+  others: 8
+  pedestrian: 0
+  person: 1
+  truck: 5
+  van: 4
+output_dir: C:/Users/26310/Desktop/data/yolo_output
+raw_data_dir: C:/Users/26310/Desktop/data
